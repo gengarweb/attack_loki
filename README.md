@@ -13,4 +13,4 @@ In this game, you need to use the thunder power of [Thor](https://en.wikipedia.o
 You can contact me by [mail](mailto:contactme@gengarsworld.com?subject=Mail%20from%20gengarsworld:) or [line](https://lin.ee/hdVnCuw).
 
 ## Copyright
-Copyright (c) 2012-2022 Gengar's World. See [LICENSE](/license.md) for details.
+Copyright (c) 2012-2022 Gengar's World. See [LICENSE](/LICENSE) for details.
