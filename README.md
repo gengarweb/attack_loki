@@ -5,7 +5,7 @@ This is a little shooter game called **attack loki**, which is maked by [unity](
 In this game, you need to use the thunder power of [Thor](https://en.wikipedia.org/wiki/Thor_\(film\)) to defeat the evil [loki](https://en.wikipedia.org/wiki/Loki_(Marvel_Cinematic_Universe)). Hope you enjoy the game:)
 
 ## How to play the game
-1. Go to [attack loki PC version](https://gengarsworld.com/attack_loki)
+1. Go to [attack loki PC version](https://apps.gengarsworld.com/attack_loki)
 2. Use the arrow key of your keyboard to move [Thor](https://en.wikipedia.org/wiki/Thor_\(film\)) and space key to attack [loki](https://en.wikipedia.org/wiki/Loki_(Marvel_Cinematic_Universe))
 3. Enjoy the game:)
 
