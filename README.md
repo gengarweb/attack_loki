@@ -11,7 +11,7 @@ In this game, you need to use the thunder power of [Thor](https://en.wikipedia.o
 2. Use the arrow key of your keyboard to move [Thor](https://en.wikipedia.org/wiki/Thor_\(film\)) and space key to attack [loki](https://en.wikipedia.org/wiki/Loki_(Marvel_Cinematic_Universe))
 3. Enjoy the game:)
 
-![attack loki](/attack_loki.png)
+[![attack loki](/attack_loki.png)](https://gengarsworld.com/apps/attack_loki)
 
 ## Any question?
 You can contact me by [mail](mailto:contactme@gengarsworld.com?subject=Mail%20from%20gengarsworld:) or [line](https://lin.ee/hdVnCuw).
